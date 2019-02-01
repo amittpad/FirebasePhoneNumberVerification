@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "939352679572",
+    "firebase_url": "https://chatlikewhatsapp-fe433.firebaseio.com",
+    "project_id": "chatlikewhatsapp-fe433",
+    "storage_bucket": "chatlikewhatsapp-fe433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939352679572:android:5c8fd730afa64146",
+        "android_client_info": {
+          "package_name": "com.amittpad.chatlikewhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939352679572-4l5mmdn87ro5479ajbm0t2f42qlhgs53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amittpad.chatlikewhatsapp",
+            "certificate_hash": "9779a9841d01fd186096687511120b80723be17f"
+          }
+        },
+        {
+          "client_id": "939352679572-6nptu3t30b468emp2simmjua5lumkpta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSvkoGQA-eDnVnYOsfYxXkpMLS11Ay78"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939352679572-6nptu3t30b468emp2simmjua5lumkpta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
